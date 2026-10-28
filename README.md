@@ -14,3 +14,17 @@ git add -A
 # Commit
 git commit -m "커밋 메세지"
 ```
+
+```bash
+# push command
+git push origin main
+```
+
+```sh
+# git 로그 명령어
+
+git log
+git log --oneline
+git log --oneline --all
+
+```
